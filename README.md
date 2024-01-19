@@ -3,7 +3,7 @@ A simple game built with Electron and Scratch where the goal is to move the cat 
 
 Requirements:
 
-Windows (Intel): 10 or later
+Windows (Intel): 64-bit processor, 10 or later
 
 Windows (ARM): Windows 11 or later
 
